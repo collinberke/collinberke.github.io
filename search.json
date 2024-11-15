@@ -11,7 +11,7 @@
     "href": "posts/husker-volleyball-sweeps-wisconsin/index.html",
     "title": "Huskers dominate Wisconsin in the Field House",
     "section": "",
-    "text": "Huskers dominated Wisconsin. It wasn’t even close. HAHAHA. Nebraska should be ranked.\n\nlibrary(tidyverse)"
+    "text": "Huskers dominated Wisconsin. It wasn’t even close. HAHAHA. Nebraska should be ranked.\n\n\nCode\nlibrary(tidyverse)\n\n\nIt was a good game for Nebraska.\n\n\nCode\nggplot(mtcars, aes(x = disp, y = mpg)) +\n  geom_point()"
   },
   {
     "objectID": "index.html",
