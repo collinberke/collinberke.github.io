@@ -14,6 +14,13 @@
     "text": "Nebraska is on track for a title run.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nHere’s more of the story.\n\n\nCode\nggplot(mtcars, aes(x = disp, y = mpg)) +\n  geom_point()"
   },
   {
+    "objectID": "posts/nebraska-volleyball-national-title-run/index.html",
+    "href": "posts/nebraska-volleyball-national-title-run/index.html",
+    "title": "Nebraska Volleyball Will Dominate This Offseason",
+    "section": "",
+    "text": "This is a story about Nebraska volleyball’s success in the 2025 season."
+  },
+  {
     "objectID": "posts/test-post/index.html",
     "href": "posts/test-post/index.html",
     "title": "How much pressure does a timeout add to a fieldgoal?",
@@ -25,6 +32,6 @@
     "href": "index.html",
     "title": "sportsBlog",
     "section": "",
-    "text": "How much pressure does a timeout add to a fieldgoal?\n\n\n\nfootball\n\nkicking\n\n\n\n\n\n\n\n\n\nNov 4, 2025\n\n\nWes Erickson\n\n\n\n\n\n\n\n\n\n\n\n\nNebraska’s Title Run is Gonna Epic\n\n\n\nmen's basketball\n\nncaa\n\n\n\n\n\n\n\n\n\nNov 4, 2025\n\n\nCollin K. Berke\n\n\n\n\n\nNo matching items"
+    "text": "Nebraska Volleyball Will Dominate This Offseason\n\n\n\nvolleyball\n\nncaa\n\n\n\n\n\n\n\n\n\nDec 9, 2025\n\n\nCollin K. Berke\n\n\n\n\n\n\n\n\n\n\n\n\nHow much pressure does a timeout add to a fieldgoal?\n\n\n\nfootball\n\nkicking\n\n\n\n\n\n\n\n\n\nNov 4, 2025\n\n\nWes Erickson\n\n\n\n\n\n\n\n\n\n\n\n\nNebraska’s Title Run is Gonna Epic\n\n\n\nmen's basketball\n\nncaa\n\n\n\n\n\n\n\n\n\nNov 4, 2025\n\n\nCollin K. Berke\n\n\n\n\n\nNo matching items"
   }
 ]
